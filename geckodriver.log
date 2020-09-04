@@ -90,3 +90,59 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 1598518939793	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: uncaught exception: undefined
 1598518959092	Marionette	INFO	Stopped listening on port 36499
+1599230083772	geckodriver	INFO	Listening on 127.0.0.1:33807
+1599230084809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecPZaCR"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599230089902	Marionette	INFO	Listening on port 43797
+1599230089923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.id.ZJgCf73of28.O/ck=xjs.s.BImvbw94Kxg.L.F4.O/am=AAAAAAAIAAAAWALmbgBw_AcBABeUOAAAAABIgJYEGwukEBISAhAAAACYhQkBgA/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oG5JrdeZXzr-zIes-m0Kfi3k7X2Bg/m=E2Spzb,F8FRnd,IkchZc,MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,SvnKM,T7XTS,TxZWcc,URQPYc,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,eT9j9d,foot,gpo5Gf,iD8Yk,kyn,lli,lu,m,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xiqEse,xz7cCd,zbML3c?xjs=s1, line 390: Script terminated by timeout at:
+s_O7f@https://www.google.com/xjs/_/js/k=xjs.s.id.ZJgCf73of28.O/ck=xjs.s.BImvbw94Kxg.L.F4.O/am=AAAAAAAIAAAAWALmbgBw_AcBABeUOAAAAABIgJYEGwukEBISAhAAAACYhQkBgA/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oG5JrdeZXzr-zIes-m0Kfi3k7X2Bg/m=E2Spzb,F8FRnd,IkchZc,MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,SvnKM,T7XTS,TxZWcc,URQPYc,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,eT9j9d,foot,gpo5Gf,iD8Yk,kyn,lli,lu,m,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xiqEse,xz7cCd,zbML3c?xjs=s1:390:102
+s_P7f@https://www.google.com/xjs/_/js/k=xjs.s.id.ZJgCf73of28.O/ck=xjs.s.BImvbw94Kxg.L.F4.O/am=AAAAAAAIAAAAWALmbgBw_AcBABeUOAAAAABIgJYEGwukEBISAhAAAACYhQkBgA/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oG5JrdeZXzr-zIes-m0Kfi3k7X2Bg/m=E2Spzb,F8FRnd,IkchZc,MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,SvnKM,T7XTS,TxZWcc,URQPYc,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,eT9j9d,foot,gpo5Gf,iD8Yk,kyn,lli,lu,m,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xiqEse,xz7cCd,zbML3c?xjs=s1:390:195
+s_$7f@https://www.google.com/xjs/_/js/k=xjs.s.id.ZJgCf73of28.O/ck=xjs.s.BImvbw94Kxg.L.F4.O/am=AAAAAAAIAAAAWALmbgBw_AcBABeUOAAAAABIgJYEGwukEBISAhAAAACYhQkBgA/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oG5JrdeZXzr-zIes-m0Kfi3k7X2Bg/m=E2Spzb,F8FRnd,IkchZc,MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,SvnKM,T7XTS,TxZWcc,URQPYc,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,eT9j9d,foot,gpo5Gf,iD8Yk,kyn,lli,lu,m,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xiqEse,xz7cCd,zbML3c?xjs=s1:411:280
+s_87f.prototype.Va@https://www.google.com/xjs/_/js/k=xjs.s.id.ZJgCf73of28.O/ck=xjs.s.BImvbw94Kxg.L.F4.O/am=AAAAAAAIAAAAWALmbgBw_AcBABeUOAAAAABIgJYEGwukEBISAhAAAACYhQkBgA/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oG5JrdeZXzr-zIes-m0Kfi3k7X2Bg/m=E2Spzb,F8FRnd,IkchZc,MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,SvnKM,T7XTS,TxZWcc,URQPYc,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,eT9j9d,foot,gpo5Gf,iD8Yk,kyn,lli,lu,m,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xiqEse,xz7cCd,zbML3c?xjs=s1:412:305
+s_.Mba@https://www.google.com/xjs/_/js/k=xjs.s.id.ZJgCf73of28.O/ck=xjs.s.BImvbw94Kxg.L.F4.O/m=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,d,csi/am=AAAAAAAIAAAAWALmbgBw_AcBABeUOAAAAABIgJYEGwukEBISAhAAAACYhQkBgA/d=1/dg=2/ct=zgms/rs=ACT90oG5JrdeZXzr-zIes-m0Kfi3k7X2Bg:425:210
+s_.dispatchEvent@https://www.google.com/xjs/_/js/k=xjs.s.id.ZJgCf73of28.O/ck=xjs.s.BImvbw94Kxg.L.F4.O/m=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,d,csi/am=AAAAAAAIAAAAWALmbgBw_AcBABeUOAAAAABIgJYEGwukEBISAhAAAACYhQkBgA/d=1/dg=2/ct=zgms/rs=ACT90oG5JrdeZXzr-zIes-m0Kfi3k7X2Bg:423:386
+s_LP.prototype.Ba@https://www.google.com/xjs/_/js/k=xjs.s.id.ZJgCf73of28.O/ck=xjs.s.BImvbw94Kxg.L.F4.O/am=AAAAAAAIAAAAWALmbgBw_AcBABeUOAAAAABIgJYEGwukEBISAhAAAACYhQkBgA/d=1/exm=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,csi,d,hsm,iDPoPb,jsa,mvYTse,tg8oTe/ed=1/dg=2/ct=zgms/rs=ACT90oG5JrdeZXzr-zIes-m0Kfi3k7X2Bg/m=E2Spzb,F8FRnd,IkchZc,MB3mMb,MkHyGd,NBZ7u,OG6ZHd,RMhBfe,RqxLvf,SvnKM,T7XTS,TxZWcc,URQPYc,XjCeUc,aCZVp,aa,aam1T,abd,async,bgd,dvl,eN4qad,eT9j9d,foot,gpo5Gf,iD8Yk,kyn,lli,lu,m,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sQAo4b,sb_wiz,sf,tl,uiNkee,vs,wkrYee,xiqEse,xz7cCd,zbML3c?xjs=s1:396:221
+s_1ha@https://www.google.com/xjs/_/js/k=xjs.s.id.ZJgCf73of28.O/ck=xjs.s.BImvbw94Kxg.L.F4.O/m=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,d,csi/am=AAAAAAAIAAAAWALmbgBw_AcBABeUOAAAAABIgJYEGwukEBISAhAAAACYhQkBgA/d=1/dg=2/ct=zgms/rs=ACT90oG5JrdeZXzr-zIes-m0Kfi3k7X2Bg:285:254
+s__ha@https://www.google.com/xjs/_/js/k=xjs.s.id.ZJgCf73of28.O/ck=xjs.s.BImvbw94Kxg.L.F4.O/m=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,d,csi/am=AAAAAAAIAAAAWALmbgBw_AcBABeUOAAAAABIgJYEGwukEBISAhAAAACYhQkBgA/d=1/dg=2/ct=zgms/rs=ACT90oG5JrdeZXzr-zIes-m0Kfi3k7X2Bg:286:249
+s_Yha/b<@https://www.google.com/xjs/_/js/k=xjs.s.id.ZJgCf73of28.O/ck=xjs.s.BImvbw94Kxg.L.F4.O/m=IvlUe,MC8mtf,TJw5qb,Y33vzc,ZyRBae,cdos,cr,hsm,iDPoPb,jsa,mvYTse,tg8oTe,d,csi/am=AAAAAAAIAAAAWALmbgBw_AcBABeUOAAAAABIgJYEGwukEBISAhAAAACYhQkBgA/d=1/dg=2/ct=zgms/rs=ACT90oG5JrdeZXzr-zIes-m0Kfi3k7X2Bg:282:277
+
+JavaScript error: https://pymotw.com/2/_static/doctools.js, line 15: ReferenceError: _ is not defined
+JavaScript error: https://www.geeksforgeeks.org/create-a-credential-file-using-python/ line 1 > injectedScript, line 1: TypeError: e is not a function
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: window.adpushup.adpTags is undefined
+JavaScript warning: https://cdn.adpushup.com/40792/adpushup.js, line 1: Script terminated by timeout at:
+Ze@https://cdn.adpushup.com/40792/adpushup.js:1:178713
+get@https://cdn.adpushup.com/40792/adpushup.js:1:180620
+css@https://cdn.adpushup.com/40792/adpushup.js:1:180316
+n/</</_.fn[e]/<@https://cdn.adpushup.com/40792/adpushup.js:1:211120
+N@https://cdn.adpushup.com/40792/adpushup.js:1:157739
+n/</</_.fn[e]@https://cdn.adpushup.com/40792/adpushup.js:1:210891
+isElementInViewport@https://cdn.adpushup.com/40792/adpushup.js:1:220609
+checkElementInViewPercent@https://cdn.adpushup.com/40792/adpushup.js:1:220993
+r/<@https://cdn.adpushup.com/40792/adpushup.js:1:282693
+r@https://cdn.adpushup.com/40792/adpushup.js:1:282737
+dispatch@https://cdn.adpushup.com/40792/adpushup.js:1:166733
+add/b.handle@https://cdn.adpushup.com/40792/adpushup.js:1:164822
+
+1599230870055	geckodriver	INFO	Listening on 127.0.0.1:35139
+1599230870063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoQ5iD9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599230874504	Marionette	INFO	Listening on port 45359
+1599230874576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: uncaught exception: undefined
+1599230898216	Marionette	INFO	Stopped listening on port 45359
+1599230904833	Marionette	INFO	Stopped listening on port 43797

@@ -1,8 +1,6 @@
 from selenium import webdriver
 from time import sleep
-
-
-
+from password  import pw 
 
 class InstaBot:
     def __init__(self, username, password):
@@ -10,6 +8,6 @@ class InstaBot:
         self.driver.get("https://instagram.com")
         sleep(2)
 
-InstaBot('username', 'password')
+InstaBot('msaid_r', 'pw')
 
 
