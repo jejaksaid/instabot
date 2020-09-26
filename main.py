@@ -8,6 +8,6 @@ class InstaBot:
         self.driver.get("https://instagram.com")
         sleep(2)
 
-InstaBot('msaid_r', 'pw')
+InstaBot('msaid_r', 'password')
 
 
